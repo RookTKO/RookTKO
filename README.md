@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**RookTKO/RookTKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is **Olaf Minkowicz**!
 
-Here are some ideas to get you started:
+## ✨ About myself ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. I love UI and game design. 
+- 🎖️ I'm a veteran.
+- 🖥️ Site Reliability Engineer at Microsoft.
+- :video_game: Founder of RookTKO LLC.
+- 🏫 Full-stack web development instructor at Nucamp.
+
+
+Currently working on **RNR**, a procedurally generated endless platforming runner with rpg mechanics at RookTKO LLC.
+

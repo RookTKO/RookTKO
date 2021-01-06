@@ -6,7 +6,7 @@
 
 I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. I love UI, web design and development, as well as game design and development. 
 
-- 🎖️ I'm a veteran, 2 years XVIII, 4 1SFG, 8 years total, math is hard.
+- 🎖️ I'm a veteran, 2 years XVIII Corp, 4 years at 1SFG, 8 years total, math is hard.
 - 🖥️ Software Engineer at Microsoft.
 - :video_game: Founder of RookTKO LLC, a independent video game company.
 - 🏫 Full-stack web development instructor at Nucamp.

@@ -16,8 +16,6 @@ Currently working on **RNR**, a procedurally generated endless platforming runne
 
 ## 📊 Stats & Numbers 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RookTKO&theme=synthwave&count_private=true&layout=compact)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=RookTKO&show_icons=true&theme=synthwave&count_private=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RookTKO&theme=synthwave&count_private=true&layout=compact) ![Github Stats](https://github-readme-stats.vercel.app/api?username=RookTKO&show_icons=true&theme=synthwave&count_private=true) 
 
 

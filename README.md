@@ -1,4 +1,4 @@
-### Hello world! 👋
+# echo Hello world! 👋
 
  My name is **Olaf Minkowicz**!
 
@@ -13,4 +13,11 @@ I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. I love UI, web d
 
 
 Currently working on **RNR**, a procedurally generated endless platforming runner with rpg mechanics at RookTKO LLC.
+
+## 📊 Stats & Numbers 📈
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RookTKO&theme=synthwave&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=RookTKO&show_icons=true&theme=synthwave&count_private=true) 
+
 

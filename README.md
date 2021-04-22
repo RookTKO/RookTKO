@@ -4,6 +4,7 @@
 
 ## ✨ About myself ✨
 
+I prefer to program in JavaScript but also have proficient working knowledge of C#, Python, Java and Ruby.
 I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. I love UI, web design and development, as well as game design and development. 
 
 - 🎖️ I'm a veteran, 2 years XVIII Corp, 4 years at 1SFG, 8 years total, math is hard.

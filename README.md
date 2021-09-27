@@ -14,10 +14,10 @@ I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. And each pair ha
 - 🎖️ I'm a veteran, 2 years XVIII Corp, 4 years at 1SFG, 8 years total, math is hard.
 - 🖥️Ex-Software Engineer at Microsoft.
 - :video_game: Founder of RookTKO LLC, a independent video game company.
-- 🏫 Full-stack web development instructor at Nucamp.
-- 🏫 Previous Microsoft Systems and Software Academy Mentor
-- 🏫 Previous TEALS Computer Science Teaching Assistant
-- 🏫 Previous Thinkful Mentor
+- Full-stack web development instructor at Nucamp.
+- Previous Microsoft Systems and Software Academy Mentor
+- Previous TEALS Computer Science Teaching Assistant
+- Previous Thinkful Mentor
 
 
 Currently working on **RNR**, a <s>procedurally generated endless platforming runner with rpg mechanics</s> procedurally generated strategic rogue-like fighter with platforming elements at RookTKO LLC.

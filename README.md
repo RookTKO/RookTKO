@@ -1,7 +1,7 @@
 # echo Hello world! 👋
 
  My name is **Olaf Minkowicz**! Like the snowman, no relation.
- Welcome to my digital lawn, please keep off, I like to keep it tiddy.
+ Welcome to my digital lawn, please keep off, I like to keep it clean. Words are hard.
 
 ## ✨ About myself ✨
 

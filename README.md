@@ -22,8 +22,6 @@ I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. And each pair ha
 
 Currently working on **RNR**, a <s>procedurally generated endless platforming runner with rpg mechanics</s> procedurally generated strategic rogue-like fighter with platforming elements at RookTKO LLC.
 
-## 📊 Stats & Numbers 📈
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RookTKO&theme=synthwave&count_private=true&layout=compact) ![Github Stats](https://github-readme-stats.vercel.app/api?username=RookTKO&show_icons=true&theme=synthwave&count_private=true) 
 
 

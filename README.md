@@ -9,7 +9,7 @@ I prefer to program in JavaScript and GML but also have proficient working knowl
 I love UI, web design and development, as well as game design and development. 
 Legit just want to make video games all day everyday and nothing else.
 
-I have two birds 🐦, two sneks 🐍, and two pupperinos 🐕. And each pair has a good one and a bad one.
+I have two birds 🐦, two sneks 🐍, and <s>two</s> three pupperinos 🐕. And each pair has a good one and a bad one.
 
 - 🎖️ I'm a veteran, 2 years XVIII Corp, 4 years at 1SFG, 8 years total, math is hard.
 - 🖥️Ex-Software Engineer at Microsoft.

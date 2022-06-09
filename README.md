@@ -5,9 +5,23 @@
 
 ## ✨ About myself ✨
 
-I prefer to program in JavaScript and GML but also have proficient working knowledge of C# and Python.
+I prefer to program in JavaScript/TypeScript.
+
+I have proficient working knowledge in these other languages as well:
+
+- Java
+- Python
+- Ruby
+- C#
+
 I love UI, web design and development, as well as game design and development. 
-Legit just want to make video games all day everyday and nothing else.
+Legit just want to make video games all day everyday and nothing else. 
+For game development I used:
+
+- Game Maker
+- Unity
+- Three.js
+- Phaser 2/3
 
 I have two birds 🐦, two sneks 🐍, and <s>two</s> three pupperinos 🐕. And each pair has a good one and a bad one.
 
@@ -19,8 +33,6 @@ I have two birds 🐦, two sneks 🐍, and <s>two</s> three pupperinos 🐕. And
 - Previous TEALS Computer Science Teaching Assistant
 - Previous Thinkful Mentor
 
-
-Currently working on **RNR**, a <s>procedurally generated endless platforming runner with rpg mechanics</s> procedurally generated strategic rogue-like fighter with platforming elements at RookTKO LLC.
 
 
 
